@@ -4,8 +4,6 @@ compatibility_date = "2024-07-18"
 compatibility_flags = ["nodejs_compat"]
 
 [vars]
-API_TOKEN='Bearer 5f160f2ce4ec798abea3f2d47b233112486a4eee09c81eaa94914e8c149af861'
-APIURL='https://e00e3e22.api-3kb.pages.dev/api/v0/fetch'
 
 # Automatically place your workloads in an optimal location to minimize latency.
 # If you are running back-end logic in a Worker, running it closer to your back-end infrastructure
